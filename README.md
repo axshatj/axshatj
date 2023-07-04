@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 Pursuing my BTech from IIIT Lucknow
-- 
+  
 - 📫 How to reach me **ransonrobbie3@gmail.com**
 
 - ⚡ Quotes **Everything is fun until SELF-REALISATION hits you.**
