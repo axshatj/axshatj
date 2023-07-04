@@ -7,17 +7,12 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 Pursuing my BTech from IIIT Lucknow
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects.**
-
-
+- 
 - 📫 How to reach me **ransonrobbie3@gmail.com**
 
 - ⚡ Quotes **Everything is fun until SELF-REALISATION hits you.**
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools: C++, Python, Git, GooglCollab
 
 <p align="left"> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
